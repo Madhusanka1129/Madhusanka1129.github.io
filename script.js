@@ -100,8 +100,8 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Create a temporary link element
         const link = document.createElement('a');
-        link.href = 'assets/cv/SP_Madusanka_CV.pdf';
-        link.download = 'SP_Madusanka_CV.pdf';
+        link.href = 'assets/cv/Madhusanka_CV_01.pdf';
+        link.download = 'Madhusanka_CV_01.pdf';
         
         // Trigger the download
         document.body.appendChild(link);
